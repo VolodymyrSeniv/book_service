@@ -4,6 +4,8 @@ version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
     "django>=6.1.1",
+    "django-debug-toolbar>=8.0.0",
+    "django-enum>=2.5.0",
     "python-dotenv>=1.2.3",
     "ruff>=0.16.7",
     "ty>=0.0.81",
